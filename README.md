@@ -1,4 +1,4 @@
-````markdown
+````markdown name=README.md
 ![Glyph Logo](https://img.shields.io/badge/Glyph-%F0%9F%92%BB-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-MVP-lightgrey)
@@ -29,7 +29,7 @@ print("Hello " + name)
 x = 5 + 3
 if x > 7:
     print("x is big!")
-````
+```
 
 ---
 
@@ -77,5 +77,3 @@ This project is MIT licensed — free to use, share, and modify.
 
 Pull requests and suggestions are welcome!
 Create your own `.glf` programs and share your ideas.
-
-```
