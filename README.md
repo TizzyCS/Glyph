@@ -1,6 +1,6 @@
 ![Glyph Logo](https://img.shields.io/badge/Glyph-%F0%9F%92%BB-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-In Progress-lightgrey)
+![Status](https://img.shields.io/badge/Status-In-Progress-lightgrey)
 
 # Glyph
 
